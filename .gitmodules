@@ -4,3 +4,9 @@
 [submodule "pack/vendor/start/nerdtree"]
 	path = pack/vendor/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vim-airline/start/vim-airline"]
+	path = pack/vim-airline/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/vim-airline/start/vim-airline-themes"]
+	path = pack/vim-airline/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
